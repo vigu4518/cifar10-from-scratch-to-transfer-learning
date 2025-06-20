@@ -38,17 +38,18 @@ CNN + LR Scheduler With ReduceLROnPlateau+Augmentation	~80%
 ResNet20 (Transfer)	Residual network adapted for CIFAR-10	~82%
 Ensemble of models	Averaged predictions	~81%
 
-
-
-
-
-
-
 🏁 Final Results
 Best Accuracy: ~83%
 
 Best Model: ResNet20 with augmentation + ensemble
 
 Insight: Data augmentation and learning rate tuning made a significant impact
+
+
+
+
+
+
+
 
 
