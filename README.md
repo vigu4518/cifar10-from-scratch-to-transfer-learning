@@ -40,6 +40,7 @@ Ensemble of models	Averaged predictions	~81%
 
 ## 🏁 Final Result
 
+
 Best Accuracy: ~83%
 
 Best Model: ResNet20 with augmentation + ensemble
