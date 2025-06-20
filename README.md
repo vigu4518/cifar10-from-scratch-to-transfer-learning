@@ -33,8 +33,8 @@ Model	Description	Accuracy
 ANN	Flatten + Dense layers	~49%
 CNN (2 Conv Layers)	With ReLU,	~70%
 CNN (3 Conv Layers)	Deeper model 	~71%
-CNN(3 Conv Layers + Augmentation	Real-time data augmentation	~74%
-CNN + LR Scheduler	With ReduceLROnPlateau+Augmentation	~80%
+CNN(3 Conv Layers + Augmentation  ~74%
+CNN + LR Scheduler With ReduceLROnPlateau+Augmentation	~80%
 ResNet20 (Transfer)	Residual network adapted for CIFAR-10	~82%
 Ensemble of models	Averaged predictions	~81%
 
