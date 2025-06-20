@@ -38,10 +38,7 @@ CNN + LR Scheduler With ReduceLROnPlateau+Augmentation	~80%
 ResNet20 (Transfer)	Residual network adapted for CIFAR-10	~82%
 Ensemble of models	Averaged predictions	~81%
 
-## Classification Report and matrix for the best result(ResNet20)
 
-![image](https://github.com/user-attachments/assets/97043f04-6571-4b9e-923f-8d3a3f925334)
-![image](https://github.com/user-attachments/assets/bd0e3d41-bbd5-4d96-b269-31574a50fb5f)
 
 
 
